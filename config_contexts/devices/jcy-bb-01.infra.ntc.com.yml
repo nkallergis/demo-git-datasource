@@ -18,4 +18,5 @@ bgp:
   redistribute:
   - connected
   rid: 10.0.10.3
-
+flexvpn:
+  lala: 12345
