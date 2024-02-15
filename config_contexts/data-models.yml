@@ -27,5 +27,5 @@ snmp:
   - community: networktocode
     ip: 10.1.1.1
     version: 2c
-  location: Network to Code - NYC | NY
+  location: CLAB01
 
