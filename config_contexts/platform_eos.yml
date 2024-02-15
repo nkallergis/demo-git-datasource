@@ -12,6 +12,3 @@ snmp:
     role: ro
   - name: secure
     role: rw
-  - name: york
-    role: rw
-
