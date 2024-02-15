@@ -12,3 +12,5 @@ snmp:
     role: ro
   - name: secure
     role: rw
+  - name: yogurt
+    role: ro
